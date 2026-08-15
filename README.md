@@ -1,6 +1,6 @@
 # Pedrin-dev
 Meu perfil no Github
-# Olá, eu sou o Pedro Henrique Cavalcante! 👋
+# Olá, eu sou o Pedro Henrique Cavalcante
 
 🎓 Estudante de programação, apaixonado por tecnologia e sempre em busca de aprender mais.
 
